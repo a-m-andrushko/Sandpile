@@ -1,1 +1,1 @@
-# Sandpile
+This is a project written in Python on Self-Organised Criticality (SOC) topic. It is based off of the conception of an avalanche (such as in a pile of sand) with artificially set conditions for its creation. The goal of the project is to show that this kind of an event is subjected to logarythmic distribution and its properties. The reference article for the results are Lecture Notes on Modeling Environmental Complexity (https://ocw.mit.edu/courses/12-086-modeling-environmental-complexity-fall-2014/resources/mit12_086f14_soc/).
